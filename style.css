@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+    font-family: arial;
+}
+header{
+    font-size: 64px;
+    display: flex;
+    justify-content: right;
+}
+a{
+    text-decoration: underline;
+    font-style: italic;
+    color: black;
+
+}
